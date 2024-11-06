@@ -25,7 +25,7 @@ To run TableTap locally, follow these instructions:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yahiyam/table_tab.git
+   git clone https://github.com/yahiyam/table_tap.git
    ```
 
    ```bash
